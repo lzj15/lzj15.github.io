@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 同心源学苑</title>
+    <link>https://tongxinyuan.org.cn/posts/</link>
+    <description>Recent content in Posts on 同心源学苑</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <copyright>Designed with [Hugo](https://gohugo.io/) by [Ludovico Caluori](https://github.com/ololiuhqui) 🎨 
+
+ Licensed under [MIT license](https://github.com/ololiuhqui/magnolia-free-hugo-theme/blob/main/LICENSE.md) 📄</copyright>
+    <lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tongxinyuan.org.cn/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>重走西南联大：黔滇徒步实践</title>
+      <link>https://tongxinyuan.org.cn/posts/%E9%87%8D%E8%B5%B0%E8%A5%BF%E5%8D%97%E8%81%94%E5%A4%A7%E9%BB%94%E6%BB%87%E5%BE%92%E6%AD%A5%E5%AE%9E%E8%B7%B5/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://tongxinyuan.org.cn/posts/%E9%87%8D%E8%B5%B0%E8%A5%BF%E5%8D%97%E8%81%94%E5%A4%A7%E9%BB%94%E6%BB%87%E5%BE%92%E6%AD%A5%E5%AE%9E%E8%B7%B5/</guid>
+      <description>一次以徒步方式重访西南联大历史路线的文化实践，探索黔滇地区的自然与人文景观。</description>
+    </item>
+    <item>
+      <title>重走长征路：四川徒步实践</title>
+      <link>https://tongxinyuan.org.cn/posts/%E9%87%8D%E8%B5%B0%E9%95%BF%E5%BE%81%E8%B7%AF%E5%9B%9B%E5%B7%9D%E5%BE%92%E6%AD%A5%E5%AE%9E%E8%B7%B5/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://tongxinyuan.org.cn/posts/%E9%87%8D%E8%B5%B0%E9%95%BF%E5%BE%81%E8%B7%AF%E5%9B%9B%E5%B7%9D%E5%BE%92%E6%AD%A5%E5%AE%9E%E8%B7%B5/</guid>
+      <description>四川徒步简介</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /zh/404
+
+Sitemap: https://tongxinyuan.org.cn//sitemap.xml

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 同心源学苑</title>
+    <link>http://localhost:1313/zh/tags/</link>
+    <description>Recent content in Tags on 同心源学苑</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <copyright>Designed with [Hugo](https://gohugo.io/) by [Ludovico Caluori](https://github.com/ololiuhqui) 🎨 
+
+ Licensed under [MIT license](https://github.com/ololiuhqui/magnolia-free-hugo-theme/blob/main/LICENSE.md) 📄</copyright>
+    <lastBuildDate>Sat, 28 Sep 2024 12:10:50 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flowers</title>
+      <link>http://localhost:1313/zh/tags/flowers/</link>
+      <pubDate>Sat, 28 Sep 2024 12:10:50 +0200</pubDate>
+      <guid>http://localhost:1313/zh/tags/flowers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>No-Image</title>
+      <link>http://localhost:1313/zh/tags/no-image/</link>
+      <pubDate>Sat, 28 Sep 2024 12:10:50 +0200</pubDate>
+      <guid>http://localhost:1313/zh/tags/no-image/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
